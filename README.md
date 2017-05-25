@@ -1,2 +1,2 @@
 # hello-world
-git guide
+this is only a test
